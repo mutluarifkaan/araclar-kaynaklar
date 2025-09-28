@@ -5,6 +5,7 @@ Bu liste, bir YouTube içerik üreticisinin video planlamasından yayınlamasın
 ### İçindekiler (Kategoriye Gitmek İçin Tıklayın)
 
 * [Video Düzenleme Yazılımları](#video-duzenleme)
+* [Yapay Zeka Video ve Avatar Araçları](#yapay-zeka-video-yt)
 * [Ses Kayıt ve Düzenleme](#ses-kayit)
 * [Ekran Kaydı ve Canlı Yayın](#ekran-kaydi)
 * [Telif Haksız Müzik ve Ses Efektleri](#muzik-ses)
@@ -22,8 +23,20 @@ Bu liste, bir YouTube içerik üreticisinin video planlamasından yayınlamasın
 | [**DaVinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve) | Hollywood prodüksiyonlarında dahi kullanılan, özellikle renk düzenlemede endüstri standardı olan çok güçlü bir yazılım. Ücretsiz versiyonu neredeyse tüm ihtiyaçları karşılar. | Kısmen Ücretsiz |
 | [**CapCut**](https://www.capcut.com/) | Özellikle mobil ve dikey videolar için popülerleşmiş, kullanımı çok kolay, trend efektler ve altyazı özellikleriyle dolu bir editör. Masaüstü versiyonu da mevcuttur. | Kısmen Ücretsiz |
 | [**Kdenlive**](https://kdenlive.org/en/) | Açık kaynaklı, tamamen ücretsiz ve şaşırtıcı derecede yetenekli, çok kanallı bir video düzenleme yazılımı. | Ücretsiz |
-| [**HitFilm**](https://fxhome.com/hitfilm) | Özellikle görsel efekt (VFX) üzerine odaklanmış, ücretsiz versiyonunda bile birçok profesyonel araç sunan bir video editörü. | Kısmen Ücretsiz |
+| [**HeyEditor**](https://www.heyeditor.net) | İçerik üreticileri için tasarlanmış, sosyal medya klipleri, altyazılar ve yeniden boyutlandırma gibi özellikleri otomatikleştiren bir editör. | Ücretli (Abonelik) |
 | [**Adobe Premiere Pro**](https://www.adobe.com/products/premiere.html) | Profesyonel içerik üreticileri arasında en yaygın kullanılan, endüstri standardı video düzenleme yazılımı. Creative Cloud ekosistemiyle entegre çalışır. | Ücretli (Abonelik) |
+
+### ## <a name="yapay-zeka-video-yt"></a>Yapay Zeka Video ve Avatar Araçları
+| Araç Adı & Link | Açıklama | Fiyatlandırma |
+| :--- | :--- | :--- |
+| [**Pika**](https://pika.art) | Metin ve görsellerden yola çıkarak B-roll, intro veya konsept videoları oluşturan popüler bir AI aracı. | Kısmen Ücretsiz |
+| [**Synthesia**](https://www.synthesia.io/) | Yüzünüzü göstermeden profesyonel sunum veya açıklama videoları oluşturmak için metinleri AI avatarlara okutur. | Ücretli (Abonelik) |
+| [**Haiper**](https://haiper.ai) | Fikirlerinizi hızlıca videoya dönüştürmek, mevcut videolarınıza animasyon eklemek için kullanılabilecek yaratıcı bir AI platformu. | Kısmen Ücretsiz |
+| [**Adobe Firefly**](https://firefly.adobe.com) | Adobe'nin üretken yapay zeka ailesi. Metinden görsel ve video oluşturma, video içi nesne değiştirme gibi özellikler sunar. | Kısmen Ücretsiz |
+| [**HeyGen**](https://www.heygen.com/) | Synthesia'ya benzer şekilde, metinden AI avatarlı videolar oluşturan popüler bir platform. | Kısmen Ücretsiz |
+| [**AI Studios**](https://www.aistudios.com) | Metin okuyan ultra-gerçekçi AI avatarlar ile hızlıca eğitim veya tanıtım videoları oluşturma platformu. | Ücretli (Abonelik) |
+| [**Zebracat**](https://www.zebracat.ai) | Marka kimliğinize uygun, ürün tanıtım ve pazarlama videolarını yapay zeka ile saniyeler içinde oluşturur. | Ücretli (Abonelik) |
+| [**Peech**](https://www.peech-ai.com) | Webinar, röportaj gibi uzun videolarınızı otomatik olarak analiz edip sosyal medya için kısa ve ilgi çekici kliplere dönüştürür. | Ücretli (Abonelik) |
 
 ### ## <a name="ses-kayit"></a>Ses Kayıt ve Düzenleme
 | Araç Adı & Link | Açıklama | Fiyatlandırma |
@@ -50,6 +63,11 @@ Bu liste, bir YouTube içerik üreticisinin video planlamasından yayınlamasın
 | Araç Adı & Link | Açıklama | Fiyatlandırma |
 | :--- | :--- | :--- |
 | [**Pexels**](https://www.pexels.com/) | Videolarınızda anlatımı güçlendirmek için kullanabileceğiniz (B-Roll), yüksek kaliteli ve estetik binlerce ücretsiz stok video ve fotoğraf. | Ücretsiz |
+| [**Pixabay**](https://pixabay.com/) | Fotoğraf, video, illüstrasyon ve ses dosyaları içeren geniş bir ücretsiz stok platformu. | Ücretsiz |
+| [**Coverr**](https://coverr.co) | Web siteleri ve projeler için özel olarak hazırlanmış, estetik ve ücretsiz videolar. | Ücretsiz |
+| [**Mixkit**](https://mixkit.co) | Yüksek kaliteli stok videolar, müzikler, ses efektleri ve video şablonları sunan bir kaynak. | Kısmen Ücretsiz |
+| [**Mazwai**](https://mazwai.com/) | Sinematik kalitede, profesyoneller tarafından özenle seçilmiş ücretsiz stok video klipleri. | Ücretsiz |
+| [**Videvo**](https://www.videvo.net/) | On binlerce ücretsiz stok video, hareketli grafik, müzik ve ses efekti sunan geniş bir kütüphane. | Kısmen Ücretsiz |
 | [**Envato Elements**](https://elements.envato.com/) | Video şablonları, hareketli grafikler, stok videolar, müzikler, fotoğraflar ve daha milyonlarca yaratıcı varlığa tek bir abonelikle erişim imkanı sunar. | Ücretli (Abonelik) |
 | [**unDraw**](https://undraw.co/illustrations) | Videolarınızda veya thumbnail'lerinizde kullanabileceğiniz, renkleri markanıza göre anında ayarlanabilen modern ve ücretsiz illüstrasyonlar. | Ücretsiz |
 
@@ -79,3 +97,5 @@ Bu liste, bir YouTube içerik üreticisinin video planlamasından yayınlamasın
 | :--- | :--- | :--- |
 | [**Google Trends**](https://trends.google.com/) | Video konuları bulmak, hangi anahtar kelimelerin popüler olduğunu ve arama trendlerini görmek için paha biçilmez bir araştırma aracı. | Ücretsiz |
 | [**Descript**](https://www.descript.com/) | Videonuzdaki konuşmaları otomatik olarak metne dönüştürür. Metin üzerinden düzenleme yaparak videoyu kesmenizi sağlayan devrimsel bir araçtır. | Kısmen Ücretsiz |
+| [**BetterPic**](https://www.betterpic.io) | Birkaç selfie yükleyerek yapay zeka ile profesyonel kalitede vesikalık veya profil fotoğrafları oluşturur. Kanal profil fotoğrafınız için ideal. | Ücretli |
+| [**Superclick**](https://superclick.app) | YouTube thumbnail'inizin ne kadar ilgi çekici olduğunu yapay zeka ile test eder ve tıklanma oranını artırmak için öneriler sunar. | Ücretli (Abonelik) |
